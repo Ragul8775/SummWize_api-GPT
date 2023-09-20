@@ -19,9 +19,16 @@ Summwiz is an open-source web application that allows users to summarize article
 
 ![Screenshot 2](./src/scrrenshots/web_2.png)
 
-![Screenshot 3](./src/scrrenshots/mb_1.png)
-
-![Screenshot 4](./src/scrrenshots/mb_2.png)
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 50%;">
+    ![Screenshot 3](./src/screenshots/mb_1.png)
+    *Description of the screenshot.*
+  </div>
+  <div style="flex: 50%;">
+    ![Screenshot 4](./src/screenshots/mb_2.png)
+    *Description of the screenshot.*
+  </div>
+</div>
 
 
 
